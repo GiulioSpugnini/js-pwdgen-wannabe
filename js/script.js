@@ -22,7 +22,7 @@ const userFavouriteColor = prompt('Qual è il tuo colore preferito?');
 console.log(userFavouriteColor);
 
 // Sommo le variabili
-const variablesSum = userName + userSurname + userFavouriteColor;
+const variablesSum = userName + userSurname + userFavouriteColor + 21;
 console.log(variablesSum);
 
 // Recupero il risultato da stampare
