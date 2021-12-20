@@ -23,3 +23,10 @@ console.log(userFavouriteColor);
 
 // Sommo le variabili
 const variablesSum = userName + userSurname + userFavouriteColor;
+console.log(variablesSum);
+
+// Recupero il risultato da stampare
+const result = document.getElementById('password');
+
+// Stampo le variabili sommate
+result.innerHTML = `Password: ${variablesSum}`;
