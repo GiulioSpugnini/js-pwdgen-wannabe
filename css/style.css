@@ -1,3 +1,10 @@
 #password {
     color: blue;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: cornflowerblue;
+    border-radius: 20px;
+    max-width: 500px;
 }
